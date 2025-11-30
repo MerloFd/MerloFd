@@ -1,4 +1,4 @@
-<p align="left">Me chamo Matheus Merlo, tenho 20 anos e atualmente estou me formando em Análise e Desenvolvimento de Sistemas pela Unicesumar. Possuo técnico em Desenvolvimento de sistemas e atuei como estágio em desenvolvimento Web. Gosto de resolver problemas e fazer as coisas da melhor maneira possível, então sou bem interessado em arquitetura e performance de software e aprender coisa nova.</p>
+<p align="left">Me chamo Matheus Merlo, tenho 20 anos e atualmente estou me formando em Análise e Desenvolvimento de Sistemas pela Unicesumar. Possuo técnico em Desenvolvimento de sistemas e atuei como estágio em desenvolvimento Web. Gosto de resolver problemas e fazer as coisas da melhor maneira possível, então sou bem interessado em arquitetura e performance de software e aprender coisa nova. Atualmente tenho competência nas seguintes tecnologias:</p>
 
 ###
 
